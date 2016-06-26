@@ -1,4 +1,4 @@
-![Screenshot] (https://giant9.com/assets/img/jl.png)
+![Screenshot] (http://giant9.com/assets/img/jl.png)
 
 ## Description
  Color Theme for Xcode (http://developer.apple.com/xcode)
