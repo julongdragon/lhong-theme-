@@ -1,3 +1,7 @@
+![Screenshot] (https://giant9.com/assets/img/jl.png)
+
+## Description
+ Color Theme for Xcode (http://developer.apple.com/xcode)
 ## Team
 
 Lhong is a project created by Eakkasit Tunsakool (https://github.com/julongdragon/)
@@ -9,7 +13,7 @@ Lhong is a project created by Eakkasit Tunsakool (https://github.com/julongdrago
 
 ## Changelog
 
-The changelog is available on the release page in each theme's repository.
+The changelog is available on the release page in repository
 
 ## License
 
