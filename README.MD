@@ -3,8 +3,11 @@
 #How to install
 
 $ git clone https://github.com/julongdragon/lhong-theme-
+
 $ cd lhong-theme-
+
 $ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+
 $ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 ## Description
